@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamsiingh&label=Profile%20views&color=0e75b6&style=flat" alt="agamsiingh" /> </p>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://superprofile.bio/agamsiingh](https://superprofile.bio/agamsiingh)
 
-- 💬 Ask me about **Android development , python**
+- 💬 Ask me about **SQL , python**
 
 - 📫 How to reach me **agamcoder@gmail.com**
 
