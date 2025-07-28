@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://superprofile.bio/agamsiingh](https://superprofile.bio/agamsiingh)
+- 👨‍💻 My Personal Website -  [Personal Website](https://agamsiingh.github.io/Portfolio-websites/)
 
 - 💬 Ask me about **SQL , python**
 
